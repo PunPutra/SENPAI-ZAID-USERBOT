@@ -9,13 +9,13 @@ services:
     branch: master
     envVars:
       - key: SUDO_USERS 
-        sync: false
+        sync: 2024842041
       - key: BOT_TOKEN 
-        sync: false
+        sync: 5631355469:AAFBpwgPyJarqkbcePVLpnrMNym8i5hoPSY
       - key: OWNER_ID 
-        sync: false
+        sync: 2024842041
       - key: STRING_SESSION1
-        sync: false
+        sync: BQAnjQCxrb-spr5XWVXZUV7_dFLeqavGitSsjvGiIgLNUhCmXQpEs-nY3qnzC5br26NMpLp-JtyA4txM_o0tpwp6IUVOBMpVeN7tdSsQ3M7BhTm6dn4hZsmShA8n3p2YKJmt0HmnkZpZWAUD6uOafBl4qPoN7pq1folT22ZaAmSEuGQg54FuFdQyuw50tzacE3PvchyYwuRlea7x6f245gGa2uLIKw2kAO3GvctNKdnYQW7X2JEuTSCfW-0_Ztu8fxyvKeVWZpEnmpH5Js8OVtf6Ib37-c7dTQNwbNmra2qrhl6vOhrPVzrSL9QjAIz1qxGaD5k4U9HPILe8ZCznLZpleLCjOQA
       - key: MONGO_URL
-        sync: false    
+        sync: mongodb+srv://punputra:punputra@cluster0.rxccyt9.mongodb.net/?retryWrites=true&w=majority
     autoDeploy: false
